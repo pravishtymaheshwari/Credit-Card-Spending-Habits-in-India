@@ -1,4 +1,4 @@
-# Credit-Card-Spending-Habits-in-India
+# Data-Exploration-Credit-Card-Spending-Habits-in-India-using-SQL
 
 Dataset :- Credit Card Spending Habits in India
 
